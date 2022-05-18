@@ -1,0 +1,22 @@
+{
+  "name": "next-chat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "next": "12.1.6",
+    "nodemailer": "^6.7.5",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
