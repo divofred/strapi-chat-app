@@ -1,3 +1,3 @@
 # Strapi
 
-# Complete Strapified chat application
+Complete Strapified chat application
